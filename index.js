@@ -1,6 +1,7 @@
 AFRAME.registerComponent('random-color', {
     dependencies: ['material'],
 
+    Ifbuttonclick then return colors;
     init: function(){
         this.el.setAttribute('material', 'color', getRandomColor());
     }
