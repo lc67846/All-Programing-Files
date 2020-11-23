@@ -1,0 +1,5 @@
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+<app appid="haldlgldplgnggkjaafhelgiaglafanh">
+<updatecheck codebase="https://crx.goguardian.com/extension-m-3.0.5041.1-stable-crx2.crx" version="3.0.5041.1"/>
+</app>
+</gupdate>
